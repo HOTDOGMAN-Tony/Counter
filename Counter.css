@@ -1,0 +1,88 @@
+button{
+    border-radius: 4px;
+    width: 100px;
+    height: 30px;
+    
+    display:inline;
+
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    cursor: pointer;
+
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+
+    margin-left: 5px;
+}
+
+.display_text{
+    text-align: center;
+    font-size: 100px;
+
+    font-weight: bolder;
+    color: rgb(255, 153, 0);
+
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+}
+
+.display_button{
+    text-align: center;
+
+    margin-top: 25px;
+}
+
+
+
+.display_green{
+    
+    text-align: center;
+    font-size: 100px;
+
+    font-weight: bolder;
+    color: rgb(16, 97, 0);
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+}
+
+.display_red{
+    
+    text-align: center;
+    font-size: 100px;
+
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 98, 179);
+    font-size: 70px;
+
+    margin-bottom: 0px;
+
+    margin-top: 10px;
+
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+}
+
+
+
+.button {
+    display: block;
+
+    text-align: center;
+    margin-left: auto;
+    margin-left: auto;
+}
