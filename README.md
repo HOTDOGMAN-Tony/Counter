@@ -1,5 +1,5 @@
 # Counter
 
-Easy counter
+Easy counter.
 
 IDK wat I am doing???
